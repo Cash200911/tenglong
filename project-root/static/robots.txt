@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://cash200911.github.io/tenglong/sitemap.xml
